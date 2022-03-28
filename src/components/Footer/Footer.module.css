@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 80px;
+}
+
+.footer > span {
+    color: var(--lightGrey);
+}
+
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    /*cursor: pointer;*/
+}
+
+.vk, .reddit, .telegram {
+    cursor: pointer;
+}
+
+
+
+

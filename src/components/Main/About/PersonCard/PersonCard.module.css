@@ -1,0 +1,41 @@
+.personCard {
+    padding: 40px;
+    background-color: #fff;
+    max-height: 383px;
+    max-width: 761px;
+    border-radius: 2px;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title > h1 {
+    color: var(--primaryColor);
+    font-size: 32px;
+}
+
+.title > span {
+    color: #8A8A8A;
+    font-size: 18px;
+}
+
+.info {
+    display: flex;
+    align-items: baseline;
+}
+
+.info > span {
+    margin-right: 40px;
+}
+
+.pet {
+    display: flex;
+    align-items: center;
+}
+
+.pet > svg {
+    margin-right: 12px;
+}

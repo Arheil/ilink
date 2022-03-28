@@ -1,0 +1,16 @@
+.main {
+    background-color: var(--primaryColor);
+}
+
+.main > svg {
+    position: absolute;
+    top: 100px;
+    right: 0;
+}
+
+.mainTitle {
+    font-size: 124px;
+    color: #fff;
+    padding: 209px 203px 89px 80px;
+    margin: 0;
+}

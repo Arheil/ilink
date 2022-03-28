@@ -1,0 +1,24 @@
+.feedback {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 56px 56px 32px 80px;
+    background-color: #fff;
+    max-width: 1128px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header > h1 {
+    color: #333;
+    font-size: 68px;
+}
+
+.header > button {
+    max-height: 52px;
+    padding: 17px 28px;
+}

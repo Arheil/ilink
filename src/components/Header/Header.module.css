@@ -1,0 +1,20 @@
+.header {
+    padding: 32px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerFoto {
+    display: flex;
+    align-items: center;
+}
+
+.headerFoto > img {
+    margin-right: 20px;
+    width: 52px;
+    height: 52px;
+}
+
+.header > button {
+    padding: 17px 28px;
+}

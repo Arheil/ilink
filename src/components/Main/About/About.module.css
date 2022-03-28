@@ -1,0 +1,15 @@
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.aboutFoto {
+    width: 330px;
+    height: 383px;
+    max-height: 383px;
+    margin-top: 32px;
+    margin-bottom: 120px;
+    border-radius: 2px;
+}
+
